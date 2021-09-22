@@ -1,2 +1,2 @@
 # DataStructure
-To learn data structure well
+To learn data structure well.
